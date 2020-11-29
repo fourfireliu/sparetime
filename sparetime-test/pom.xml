@@ -20,7 +20,7 @@
 
         <dependency>
             <groupId>com.fourfire</groupId>
-            <artifactId>spare-common</artifactId>
+            <artifactId>sparetime-common</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
 
@@ -33,6 +33,12 @@
         <dependency>
             <groupId>com.fourfire</groupId>
             <artifactId>sparetime-dao</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.fourfire</groupId>
+            <artifactId>sparetime-start</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
 
